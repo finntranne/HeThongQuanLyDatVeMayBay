@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\hethongquanlydatvemaybay\\xacthucemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\xacthucemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|d:\\work\\laptrinhwindows\\project_ckii\\hethongquanlydatvemaybay\\hethongquanlydatvemaybay\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\hethongquanlydatvemaybay\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\hethongquanlydatvemaybay\\thongtinnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\thongtinnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\hethongquanlydatvemaybay\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\hethongquanlydatvemaybay\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\hethongquanlydatvemaybay\\formnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\formnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\hethongquanlydatvemaybay\\formnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\formnguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\hethongquanlydatvemaybay\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\hethongquanlydatvemaybay\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\hethongquanlydatvemaybay\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\hethongquanlydatvemaybay\\xacthucemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\xacthucemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\hethongquanlydatvemaybay\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\formdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\hethongquanlydatvemaybay\\sodienthoaihople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53FBE18-9984-4189-BE8B-E1D744D8B2F0}|HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay.csproj|solutionrelative:hethongquanlydatvemaybay\\sodienthoaihople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\TrangChu.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\TrangChu.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\TrangChu.cs [Design]",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:39:54.599Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThongTinNguoiDung.cs [Design]",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\ThongTinNguoiDung.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\ThongTinNguoiDung.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\ThongTinNguoiDung.cs [Design]",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\ThongTinNguoiDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:09:37.46Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormDangKy.cs",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\FormDangKy.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\FormDangKy.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\FormDangKy.cs",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\FormDangKy.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:17:32.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDangKy.cs [Design]",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\FormDangKy.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\FormDangKy.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\FormDangKy.cs [Design]",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\FormDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:09:09.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoiMatKhau.cs [Design]",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\DoiMatKhau.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\DoiMatKhau.cs [Design]",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\DoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:19:28.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuenMatKhau.cs [Design]",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\QuenMatKhau.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\QuenMatKhau.cs [Design]",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\QuenMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:05:20.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XacThucEmail.cs",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\XacThucEmail.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\XacThucEmail.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\XacThucEmail.cs",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\XacThucEmail.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAwwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:15:46.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XacThucEmail.cs [Design]",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\XacThucEmail.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\XacThucEmail.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\XacThucEmail.cs [Design]",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\XacThucEmail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:29:47.938Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangChu.cs",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\TrangChu.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\TrangChu.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\TrangChu.cs*",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\TrangChu.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wCMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:54:26.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormNguoiDung.cs [Design]",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\FormNguoiDung.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\FormNguoiDung.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\FormNguoiDung.cs [Design]",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\FormNguoiDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:48:19.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormNguoiDung.cs",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\FormNguoiDung.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\FormNguoiDung.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\FormNguoiDung.cs",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\FormNguoiDung.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADgvycAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:30:40.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\FormDangNhap.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\FormDangNhap.cs",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\FormDangNhap.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwDUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:31:02.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\FormDangNhap.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:04:50.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SoDienThoaiHopLe.cs",
+              "DocumentMoniker": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\SoDienThoaiHopLe.cs",
+              "RelativeDocumentMoniker": "HeThongQuanLyDatVeMayBay\\SoDienThoaiHopLe.cs",
+              "ToolTip": "D:\\WORK\\LAPTRINHWINDOWS\\PROJECT_CKII\\HeThongQuanLyDatVeMayBay\\HeThongQuanLyDatVeMayBay\\SoDienThoaiHopLe.cs",
+              "RelativeToolTip": "HeThongQuanLyDatVeMayBay\\SoDienThoaiHopLe.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwDgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:24:47.5Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
